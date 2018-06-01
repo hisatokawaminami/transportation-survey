@@ -8,7 +8,7 @@
 
 Create an default folder
 
-## Technologye Used
+## Technology Used
 
 HTML, CSS, Javascript, jQuery
 
