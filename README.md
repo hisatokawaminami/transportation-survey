@@ -1,4 +1,4 @@
-# Epicodus Week 2 Day 4 Address Book Project
+# Epicodus Ready to Use Folder
 
 ## Created
 
@@ -6,14 +6,14 @@
 
 ## About
 
-Create an address book website
+Create an default folder
 
 ## Technologye Used
 
 HTML, CSS, Javascript, jQuery
 
 ## Installation
-Clone from: https://github.com/hisatokawaminami/address-book
+Clone from: https://github.com/hisatokawaminami/default
 
 ## Credits
 Hisato Kawaminami
